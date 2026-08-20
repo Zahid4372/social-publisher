@@ -74,7 +74,7 @@ Before starting, make sure you have:
 Clone the repository:
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/Zahid4372/social-publisher.git
 ```
 
 Go to the project:
